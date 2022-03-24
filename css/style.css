@@ -1,0 +1,14 @@
+h1 {
+    font-size: 75px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 .gradient-heading {
+
+    display: inline;
+    padding-right: 5px;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
